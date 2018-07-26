@@ -1,0 +1,48 @@
+body {background-color: #cfd7c7}
+
+h2 {
+    text-align: center;
+    font-family: "Courier New", Times, serif
+}
+
+div.codingimg{
+  border: 5px solid #0F8B8D ;
+    padding: 20px 60px 20px 100px;
+    background-color: #533B4D;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Jura', sans-serif;
+    text-shadow: 4px 4px 6px #0F8B8D;
+}
+p2 {
+  font-family: "Verdana", Helvetica, sans-serif;
+  font-size: 25px
+}
+    #purple {
+      border: 5px solid #533B4D;
+      padding: 5px;
+}
+    #teal {
+      border: 5px solid #0F8B8D;
+      padding: 5px;
+  }
+    #right
+    {
+      float: right
+}
+    #left
+    {
+      float: left
+    }
+    .my_class_name {
+	margin: 0 auto;
+	border: 10px outset #ddd;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
